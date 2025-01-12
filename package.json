@@ -7,13 +7,15 @@
   },
   "dependencies": {
     "@aws-sdk/client-cognito-identity-provider": "^3.699.0",
+    "@aws-sdk/client-secrets-manager": "^3.723.0",
     "@aws-sdk/credential-providers": "^3.699.0",
     "amazon-cognito-identity-js": "^6.3.12",
     "aws-sdk": "^2.1692.0",
     "body-parser": "^1.20.3",
     "cors": "^2.8.5",
     "express": "^4.21.1",
-    "firebase": "^11.0.2"
+    "firebase": "^11.0.2",
+    "google-auth-library": "^9.15.0"
   },
   "keywords": [],
   "author": "",
